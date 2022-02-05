@@ -4,8 +4,6 @@ helmfiles:
   environment: {}
 - path: helmfiles/kuberhealthy/helmfile.yaml
   environment: {}
-- path: helmfiles/nginx/helmfile.yaml
-  environment: {}
 - path: helmfiles/tekton-pipelines/helmfile.yaml
   environment: {}
 repositories:
